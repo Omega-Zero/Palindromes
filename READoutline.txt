@@ -1,0 +1,1 @@
+A palindrome is a sequence of characters that reads the same forward as backwards. For example, the words "radar," "racecar," and "madam" are palindromes. This code is a simple, case sensitive, palindrome checker.
